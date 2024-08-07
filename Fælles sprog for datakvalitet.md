@@ -593,8 +593,6 @@ Nedenfor ses kontekstdiagrammer for datakvalitetsdeklarationen og de foreslåede
 
 ### Foreslåede metadata
 
-
-
 ![4.jpg](C:\Users\B339605\Documents\GitHub\Faelles-sprog-for-datakvalitet\assets\4.jpg)
 
 ## Fodnoter
@@ -614,86 +612,3 @@ Nedenfor ses kontekstdiagrammer for datakvalitetsdeklarationen og de foreslåede
 7  I denne sammenhæng skal individ forstås som en konkret eller abstrakt ting der skal registreres i datasættet. Det kan være et individ i ordets traditionelle forstand men også en organisation, en genstand, en oplysning, en begivenhed, en observation mm. Population er den gruppe af individer man gerne vil registrere information om.
 
 8  Marker det ønskede antal stjerner og vælg en farve under ’Udfyldning’ (malerspandsikonet)
-
-[Permanent URL til artiklen: https://arkitektur.digst.dk/node/1092](https://arkitektur.digst.dk/node/1092)
-
-[Tilbage til toppen](#top)
-
-Opdateret 04. december 2023
-
-DokumentinformationIndholdsfortegnelse
-
-* * [Vejledning til deklaration af datasæt med kernedimensioner](#vejledning-til-deklaration-af-datast-med-kernedime)
-* [Introduktion](#introduktion)
-  * [Scope](#scope)
-* [Metode til beskrivelse af datakvalitet](#metode-til-beskrivelse-af-datakvalitet)
-  * [Bedømmelsesskala](#bedmmelsesskala)
-    * [Eksempel på bedømmelse](#eksempel-p-bedmmelse)
-* [Datakvalitetsdimensioner](#datakvalitetsdimensioner)
-  * [1\. Komplethed](#1-komplethed)
-    * [1.1 Definition](#11-definition)
-    * [1.2 Beskrivelse](#12-beskrivelse)
-    * [1.3 Relevante målinger og beskrivelser](#13-relevante-mlinger-og-beskrivelser)
-    * [1.4 Eksempler](#14-eksempler) 
-  * [2\. Korrekthed](#2-korrekthed)
-    * [2.1 Definition](#21-definition)
-    * [2.2 Beskrivelse](#22-beskrivelse)
-    * [2.3 Relevante målinger og beskrivelser](#23-relevante-mlinger-og-beskrivelser)
-    * [2.4 Eksempler](#24-eksempler)
-  * [3\. Aktualitet](#3-aktualitet)
-    * [3.1 Definition](#31-definition)
-    * [3.2 Beskrivelse](#32-beskrivelse)
-    * [3.3 Relevante målinger og beskrivelser](#33-relevante-mlinger-og-beskrivelser)
-    * [3.4 Eksempler](#34-eksempler)
-  * [4\. Genbrugelighed](#4-genbrugelighed)
-    * [4.1 Definition](#41-definition)
-    * [4.2 Beskrivelse](#42-beskrivelse)
-    * [4.3 Relevante målinger og beskrivelser](#43-relevante-mlinger-og-beskrivelser)
-    * [4.4 Eksempler](#44-eksempler)
-* [Bilag A: Skabelon til deklaration af datakvalitet](#bilag-a-skabelon-til-deklaration-af-datakvalitet)
-  * [Hjælp til udfyldelse](#hjlp-til-udfyldelse)
-  * [Bedømmelsesskala](#bedømmelsesskala_2)
-* [Bilag B: Tjekliste til metadata](#bilag-b-tjekliste-til-metadata)
-* [Bilag C: Eksempel på udfydelse af deklaration af datakvalitet](#bilag-c-eksempel-p-udfydelse-af-deklaration-af-dat)
-  * [Bedømmelsesskala](#bedømmelsesskala_3)
-* [Bilag D: Dimensioner fra internationale standarder](#bilag-d-dimensioner-fra-internationale-standarder)
-  * [Fuldt dimensionssæt fra ISO 25012](#fuldt-dimensionsst-fra-iso-25012)
-  * [Fuldt dimensionssæt fra Linked Data Quality Dimensions-vokabularet](#fuldt-dimensionsst-fra-linked-data-quality-dimensi)
-  * [Mapning mellem kernedimensioner og internationale standarder](#mapning-mellem-kernedimensioner-og-internationale-)
-    * [Mapning til ISO 25012](#mapning-til-iso-25012)
-    * [Mapning til Linked Data Quality Dimensions](#mapning-til-linked-data-quality-dimensions)
-* [Bilag E: Begreber](#bilag-e-begreber)
-  * [Begrebsliste](#begrebsliste)
-  * [Begrebsdiagram](#begrebsdiagram)
-    * [Del 1](#del-1)
-    * [Del 2](#del-2)
-* [Bilag F: Datamodel](#bilag-f-datamodel)
-  * [Datakvalitetsdeklaration](#datakvalitetsdeklaration)
-  * [Foreslåede metadata](#foreslede-metadata)
-* [Fodnoter](#fodnoter)
-
-Titel Fælles sprog for datakvalitet
-
-Seneste opdateringsdato
-
-24\. september 2021
-
-Arkitekturperspektiv
-
-Information
-
-Dokument beskrivelse
-
-Det fælles sprog for datakvalitet angiver en fælles begrebsramme samt en fælles metode for angivelse af et datasæts datakvalitet. Formålet med et fælles sprog for datakvalitet er at faciliterer dialogen om datakvalitet mellem dataansvarlige og dataanvendere.
-
-FDA Status
-
-Optaget
-
-Produktlivscyklus
-
-Færdig
-
-Versionsnummer
-
-1.0.0
