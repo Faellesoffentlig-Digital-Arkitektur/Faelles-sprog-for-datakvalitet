@@ -3,7 +3,7 @@ Fælles sprog for datakvalitet beskriver en metode til at angive oplysninger om 
 
 # Fælles sprog for datakvalitet skal opdateres. 
 
-<b>Deltag<b> i diskussion om hvordan version 2 skal udformes under issues.
+<b>Deltag</b> i diskussion om hvordan version 2 skal udformes under issues.
 
 Der er oprettede issues der bekriver kendte problemstillinger og mulige løsninger, hvor du er meget velkommen til at give din mening til kende og/eller komme med alternative løsningsforlag. Hvis du har udfordringer med eller kommentarer til dele af fælles sprog for datakvalitet, der ikke er dækket af eksisterende issues, må du meget gerne oprette et issue.
 
