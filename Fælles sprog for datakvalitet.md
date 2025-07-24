@@ -575,11 +575,11 @@ I dette bilag findes en begrebsliste, hvor de mest centrale begreber i forbindel
 
 #### Del 1
 
-![](C:\Users\B339605\Documents\GitHub\Faelles-sprog-for-datakvalitet\assets\1.jpg)
+![Figur 1](assets/1.jpg)
 
 #### Del 2
 
-![](C:\Users\B339605\Documents\GitHub\Faelles-sprog-for-datakvalitet\assets\2.jpg)
+![Figur 2](assets/2.jpg)
 
 ## Bilag F: Datamodel
 
@@ -589,11 +589,11 @@ Nedenfor ses kontekstdiagrammer for datakvalitetsdeklarationen og de foreslåede
 
 ### Datakvalitetsdeklaration
 
-![](C:\Users\B339605\Documents\GitHub\Faelles-sprog-for-datakvalitet\assets\3.jpg)
+![Figur 3](assets/3.jpg)
 
 ### Foreslåede metadata
 
-![4.jpg](C:\Users\B339605\Documents\GitHub\Faelles-sprog-for-datakvalitet\assets\4.jpg)
+![Figur 4](assets/4.jpg)
 
 ## Fodnoter
 
